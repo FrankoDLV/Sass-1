@@ -1,0 +1,19 @@
+nav ul li a {
+    color: var(--primary);
+    font-size: 15px;
+    
+  }
+  header {
+    height: 50px;
+    background-color: map-get($colores, terciario);
+    h1 {
+        font-weight: bold;
+        color: #fff;
+        line-height: 1.8;
+      }
+}
+   
+
+.navbar {
+    height: 78px;
+  }
